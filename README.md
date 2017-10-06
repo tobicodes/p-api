@@ -15,7 +15,7 @@ This simple RESTful API supports requests to 3 endpoints ```'/date'```, ```'/com
 
 In order to illustrate the functionality of this API, I'll be using some example data. Below are example requests - both successful and unsuccessful. 
 
-###  1) GET ````/hello```
+###  1) GET ```/hello```
 
   Params   | Data type   | Description |Allowable Content |
 | ------------- |:-------------:| -----:| -----:
