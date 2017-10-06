@@ -205,4 +205,4 @@ Here are some ideas for building upon the functionality of this simple RESTful A
 - Compute - extend functionality to support operations on floats and fractions
 - More input validation - more checks to ensure that the user sends the right kind of data
 - More custom error handling - perhaps sending different ```4xx status codes ```for client-side errors 
-- Date - extending the functionality of the ```/date``` endpoint to support other date formats e.g. "dd/mm/yy"  
+- Date - extending the functionality of the ```/date``` endpoint to support other date formats e.g. "dd/mm/yy" or "mm/dd/yyyy"
